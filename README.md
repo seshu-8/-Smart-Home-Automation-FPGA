@@ -143,6 +143,7 @@ Smart-Home-Automation-FPGA/
 ├── simulation/
 │   ├── run_simulation.sh            ← One-click sim script
 │   └── EDA_Playground_Guide.md      ← Browser sim instructions
+    |__VIVADO 2024.2 guide.md       
 │
 ├── waveforms/
 │   └── smart_home_tb.vcd            ← Generated after simulation
@@ -252,6 +253,7 @@ For GitHub proof of work, capture and upload to `images/`:
 
 ## 👤 Author
 
-**Seshuu**  
-GitHub: [@seshu-8](https://github.com/seshu-8)  
+**K.V.Seshu Babu**  
+GitHub: [@GIT PROFILE](https://github.com/seshu-8) 
+Linkedin:[@Linkedin profile](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 Project: VLSI Course — Smart Home Automation Controller on FPGA

@@ -252,6 +252,6 @@ For GitHub proof of work, capture and upload to `images/`:
 
 ## 👤 Author
 
-**Seshuu**  
-GitHub: [@seshu-8](https://github.com/seshu-8)  
+**K.V.Seshu Babu**  
+GitHub: [@GIT PROFILE](https://github.com/seshu-8)  
 Project: VLSI Course — Smart Home Automation Controller on FPGA

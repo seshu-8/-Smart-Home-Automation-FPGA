@@ -1,0 +1,40 @@
+# Xilinx Vivado generated files
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.ltx
+.Xil/
+vivado_*.backup.jou
+vivado_*.backup.log
+/.cache/
+/runs/
+/ip/
+
+# ModelSim
+work/
+transcript
+vsim.wlf
+*.wlf
+
+# Icarus Verilog compiled output
+*.vvp
+simulation/smart_home_sim
+
+# Waveform files (keep .vcd if you want, else ignore large ones)
+# waveforms/*.vcd
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Synthesis reports (keep reports/ folder but ignore large Vivado reports)
+*.rpt
+*.dcp
